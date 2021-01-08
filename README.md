@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PacktPublishing/The-Data-Science-for-Marketing-Analytics-Workshop/master)
+
+
 ## $5 Tech Unlocked 2021!
 [Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
 -----
