@@ -1,4 +1,4 @@
-CustomerID,revenue_2010,days_since_first_purchase,days_since_last_purchase,number_of_purchases,avg_order_cost,revenue_2011
+CustomerID,revenue_2019,days_since_first_purchase,days_since_last_purchase,number_of_purchases,avg_order_cost,revenue_2020
 12347.0,711.79,23.0,23.0,1.0,711.79,3598.2100000000005
 12348.0,892.8,14.0,14.0,1.0,892.8,904.4399999999999
 12370.0,1868.02,16.0,13.0,2.0,934.01,1677.67
