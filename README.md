@@ -13,6 +13,7 @@ This is the repository for Data Science for Marketing Analytics, 2nd Edition, pu
 
 To get started with the project files, you'll need to:
 1. Install [Anaconda](https://www.anaconda.com/distribution/)
+2. Create a virtual environment using the `environment.yml` file provided [here](https://raw.githubusercontent.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/master/environment.yml). You can also [Binder](https://mybinder.org/v2/gh/PacktPublishing/The-Data-Science-for-Marketing-Analytics-Workshop/master) for running the Jupyter Notebook files online.
 
 
 ## About Data Science for Marketing Analytics
