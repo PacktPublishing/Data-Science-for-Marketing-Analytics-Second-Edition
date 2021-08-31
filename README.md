@@ -13,7 +13,7 @@ This is the repository for Data Science for Marketing Analytics, 2nd Edition, pu
 
 To get started with the project files, you'll need to:
 1. Install [Anaconda](https://www.anaconda.com/distribution/)
-2. Create a virtual environment using the `environment.yml` file provided [here](https://raw.githubusercontent.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/master/environment.yml). You can also [Binder](https://mybinder.org/v2/gh/PacktPublishing/The-Data-Science-for-Marketing-Analytics-Workshop/master) for running the Jupyter Notebook files online.
+2. Create a virtual environment using the `environment.yml` file provided [here](https://raw.githubusercontent.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/master/environment.yml). You can also use [Binder](https://mybinder.org/v2/gh/PacktPublishing/The-Data-Science-for-Marketing-Analytics-Workshop/master) for running the Jupyter Notebook files online.
 
 
 ## About Data Science for Marketing Analytics
@@ -21,7 +21,7 @@ To get started with the project files, you'll need to:
 Data Science for Marketing Analytics covers every stage of data analytics, from working with a raw dataset to segmenting a population and modeling different parts of it based on the segments.
 
 ## What you will learn
-* Data pre-processing, exploration and visualization techniques using Pandas, Matplotlib and Seaborn modules
+* Data pre-processing, exploration, and visualization techniques using pandas, Matplotlib, and Seaborn modules
 * Clustering techniques, such as hierarchical and k-means clustering, and their use in customer segmentation
 * Regression models for predictive modeling using scikit-learn
 * Regularization techniques for reducing overfitting in regression models
