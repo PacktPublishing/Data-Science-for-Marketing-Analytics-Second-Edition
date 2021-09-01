@@ -30,6 +30,6 @@ Data Science for Marketing Analytics covers every stage of data analytics, from 
 
 ###Related Books
 If you've found this repository useful, you might want to check out some of our other workshop titles:
-[Data Science Projects with Python, Second Edition](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
-[The TypeScript Workshop](https://www.amazon.com/TypeScript-Workshop-practical-confident-programming-ebook/dp/B093Y29GW3/ref=sr_1_1?dchild=1&keywords=TypeScript+workshop+packt&qid=1630497009&sr=8-1)
-[Web Development with Django](https://www.amazon.com/Web-Development-Django-applications-Python-based-ebook/dp/B08MB85B8Z/ref=sr_1_2?dchild=1&keywords=web+development+with+django+packet&qid=1630497072&sr=8-2)
+* [Data Science Projects with Python, Second Edition](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
+* [The TypeScript Workshop](https://www.amazon.com/TypeScript-Workshop-practical-confident-programming-ebook/dp/B093Y29GW3/ref=sr_1_1?dchild=1&keywords=TypeScript+workshop+packt&qid=1630497009&sr=8-1)
+* [Web Development with Django](https://www.amazon.com/Web-Development-Django-applications-Python-based-ebook/dp/B08MB85B8Z/ref=sr_1_2?dchild=1&keywords=web+development+with+django+packet&qid=1630497072&sr=8-2)
