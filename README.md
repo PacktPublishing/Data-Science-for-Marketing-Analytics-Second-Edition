@@ -20,7 +20,7 @@ To get started with the project files, you'll need to:
 
 Data Science for Marketing Analytics covers every stage of data analytics, from working with a raw dataset to segmenting a population and modeling different parts of it based on the segments.
 
-## What you will learn
+## What You Will learn
 * Data pre-processing, exploration, and visualization techniques using pandas, Matplotlib, and Seaborn modules
 * Clustering techniques, such as hierarchical and k-means clustering, and their use in customer segmentation
 * Regression models for predictive modeling using scikit-learn
@@ -28,5 +28,8 @@ Data Science for Marketing Analytics covers every stage of data analytics, from 
 * Hyperparameter tuning for optimizing model performance
 * Application of multiclass classification models in customer choice modeling
 
-## Please leave a review
-Let us know what you think by leaving a detailed, impartial review on Amazon. We appreciate all feedback – it helps us continue to make great products and help aspiring developers build their skills. Please spare a few minutes to give your thoughts – it makes a big difference to us. You can leave a review by clicking the following link: https://packt.link/r/1800560478.
+###Related Books
+If you've found this repository useful, you might want to check out some of our other workshop titles:
+[Data Science Projects with Python, Second Edition](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
+[The TypeScript Workshop](https://www.amazon.com/TypeScript-Workshop-practical-confident-programming-ebook/dp/B093Y29GW3/ref=sr_1_1?dchild=1&keywords=TypeScript+workshop+packt&qid=1630497009&sr=8-1)
+[Web Development with Django](https://www.amazon.com/Web-Development-Django-applications-Python-based-ebook/dp/B08MB85B8Z/ref=sr_1_2?dchild=1&keywords=web+development+with+django+packet&qid=1630497072&sr=8-2)
