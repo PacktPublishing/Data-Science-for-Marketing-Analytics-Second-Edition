@@ -1,4 +1,4 @@
-# Data Science for Marketing Analytics
+# Data Science for Marketing Analytics, Second Edition
 
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition)](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/issues)
 [![GitHub forks](https://img.shields.io/github/forks/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition)](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/network)
