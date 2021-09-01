@@ -28,7 +28,7 @@ Data Science for Marketing Analytics covers every stage of data analytics, from 
 * Hyperparameter tuning for optimizing model performance
 * Application of multiclass classification models in customer choice modeling
 
-###Related Books
+## Related Workshops and Books
 If you've found this repository useful, you might want to check out some of our other workshop titles:
 * [Data Science Projects with Python, Second Edition](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
 * [The TypeScript Workshop](https://www.amazon.com/TypeScript-Workshop-practical-confident-programming-ebook/dp/B093Y29GW3/ref=sr_1_1?dchild=1&keywords=TypeScript+workshop+packt&qid=1630497009&sr=8-1)
