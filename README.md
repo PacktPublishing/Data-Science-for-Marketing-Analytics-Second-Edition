@@ -27,3 +27,6 @@ Data Science for Marketing Analytics covers every stage of data analytics, from 
 * Regularization techniques for reducing overfitting in regression models
 * Hyperparameter tuning for optimizing model performance
 * Application of multiclass classification models in customer choice modeling
+
+## Please leave a review
+Let us know what you think by leaving a detailed, impartial review on Amazon. We appreciate all feedback – it helps us continue to make great products and help aspiring developers build their skills. Please spare a few minutes to give your thoughts – it makes a big difference to us. You can leave a review by clicking the following link: https://packt.link/r/1800560478.
