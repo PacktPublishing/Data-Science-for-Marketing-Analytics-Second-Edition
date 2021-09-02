@@ -32,4 +32,4 @@ To get started with the project files, you'll need to:
 If you've found this book useful, you might want to check out some of our other titles:
 * [Data Science Projects with Python](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
 * [The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=the+python+workshop&qid=1630565130&sr=8-1)
-* [The Applied SQL Data Analytics Workshop](https://www.amazon.com/s?k=the+applied+sql+data+analytics+workshop&crid=EQEMIS85KGRF&sprefix=the+applied+sq%2Caps%2C378&ref=nb_sb_ss_ts-doa-p_1_14)
+* [The Applied SQL Data Analytics Workshop](https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop/dp/1800203675/ref=sr_1_1?crid=EQEMIS85KGRF&dchild=1&keywords=the+applied+sql+data+analytics+workshop&qid=1630565366&sprefix=the+applied+sq%2Caps%2C378&sr=8-1)
