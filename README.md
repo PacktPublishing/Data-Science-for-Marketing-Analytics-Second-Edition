@@ -1,7 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/machine-learning-and-generative-ai-system-design-workshop-tickets-1975103644168?aff=Github'><img src='https://static.packt-cdn.com/assets/images/packt+events/Sairam_ML_GenAI_Github_banner.png'/></a></p>
-
-<p align='center'><a href='https://www.eventbrite.com/e/algorithmic-trading-with-python-cohort-2-tickets-1833367644979?aff=oddtdtcreator'><img src='https://static.packt-cdn.com/assets/images/packt+events/Python_for_Algorithmic Trading_v1.png'/></a></p>
-
 # Data Science for Marketing Analytics, Second Edition
 
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition)](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/issues)
@@ -37,3 +33,4 @@ If you've found this book useful, you might want to check out some of our other 
 * [Data Science Projects with Python](https://www.amazon.com/Data-Science-Projects-Python-approach/dp/1800564481/ref=sr_1_2?dchild=1&keywords=data+science+projects+packt&qid=1630496866&sr=8-2)
 * [The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=the+python+workshop&qid=1630565130&sr=8-1)
 * [The Applied SQL Data Analytics Workshop](https://www.amazon.com/Applied-SQL-Data-Analytics-Workshop/dp/1800203675/ref=sr_1_1?crid=EQEMIS85KGRF&dchild=1&keywords=the+applied+sql+data+analytics+workshop&qid=1630565366&sprefix=the+applied+sq%2Caps%2C378&sr=8-1)
+
