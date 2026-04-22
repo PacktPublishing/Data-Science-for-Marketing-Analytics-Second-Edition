@@ -1,5 +1,3 @@
-<p align='center'><a href='https://www.eventbrite.com/e/ship-production-pytorch-system-in-a-day-train-optimize-deploy-workshop-tickets-1983348934052?aff=GitHub'><img src='https://static.packt-cdn.com/assets/images/packt+events/workshop_ashish_github.png'/></a></p>
-
 # Data Science for Marketing Analytics, Second Edition
 
 [![GitHub issues](https://img.shields.io/github/issues/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition)](https://github.com/PacktPublishing/Data-Science-for-Marketing-Analytics-Second-Edition/issues)
